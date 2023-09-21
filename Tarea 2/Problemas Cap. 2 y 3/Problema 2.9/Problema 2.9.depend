@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695262680 source:c:\users\pauls\onedrive\documents\itla\programacion mecatronica\problema 2.9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
