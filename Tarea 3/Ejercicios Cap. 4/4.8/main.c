@@ -4,6 +4,7 @@
 //Combinación de variables globales y locales, y parámetros por valor y por referencia.
 
 int a, b, c, d; //Variables globales.
+
 void funcion1(int*, int*);
 //Prototipo de función. Observa que los dos parámetros son por referencia.
 
