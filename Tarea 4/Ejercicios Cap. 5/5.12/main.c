@@ -12,7 +12,7 @@ void main(void)
     int TAM, VEC[MAX];
     do
         {
-            printf("Ingrese el tamaño del arreglo: ");
+            printf("Ingrese el tamano del arreglo: ");
     scanf("%d", &TAM);
     }
     while (TAM > MAX || TAM < 1);
