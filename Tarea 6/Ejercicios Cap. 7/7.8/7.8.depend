@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698277570 source:c:\users\pauls\onedrive\documents\itla\programacion mecatronica\7.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
